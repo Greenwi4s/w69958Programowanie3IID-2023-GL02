@@ -1,0 +1,14 @@
+F:\PROG C#\laba1\laba 1\laba 1\bin\Debug\net8.0\laba 1.exe
+F:\PROG C#\laba1\laba 1\laba 1\bin\Debug\net8.0\laba 1.deps.json
+F:\PROG C#\laba1\laba 1\laba 1\bin\Debug\net8.0\laba 1.runtimeconfig.json
+F:\PROG C#\laba1\laba 1\laba 1\bin\Debug\net8.0\laba 1.dll
+F:\PROG C#\laba1\laba 1\laba 1\bin\Debug\net8.0\laba 1.pdb
+F:\PROG C#\laba1\laba 1\laba 1\obj\Debug\net8.0\laba 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROG C#\laba1\laba 1\laba 1\obj\Debug\net8.0\laba 1.AssemblyInfoInputs.cache
+F:\PROG C#\laba1\laba 1\laba 1\obj\Debug\net8.0\laba 1.AssemblyInfo.cs
+F:\PROG C#\laba1\laba 1\laba 1\obj\Debug\net8.0\laba 1.csproj.CoreCompileInputs.cache
+F:\PROG C#\laba1\laba 1\laba 1\obj\Debug\net8.0\laba 1.dll
+F:\PROG C#\laba1\laba 1\laba 1\obj\Debug\net8.0\refint\laba 1.dll
+F:\PROG C#\laba1\laba 1\laba 1\obj\Debug\net8.0\laba 1.pdb
+F:\PROG C#\laba1\laba 1\laba 1\obj\Debug\net8.0\laba 1.genruntimeconfig.cache
+F:\PROG C#\laba1\laba 1\laba 1\obj\Debug\net8.0\ref\laba 1.dll
