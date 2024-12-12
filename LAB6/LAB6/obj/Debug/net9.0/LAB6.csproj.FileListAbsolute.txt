@@ -1,0 +1,14 @@
+C:\Users\w69958\RiderProjects\LAB6\LAB6\bin\Debug\net9.0\LAB6.exe
+C:\Users\w69958\RiderProjects\LAB6\LAB6\bin\Debug\net9.0\LAB6.deps.json
+C:\Users\w69958\RiderProjects\LAB6\LAB6\bin\Debug\net9.0\LAB6.runtimeconfig.json
+C:\Users\w69958\RiderProjects\LAB6\LAB6\bin\Debug\net9.0\LAB6.dll
+C:\Users\w69958\RiderProjects\LAB6\LAB6\bin\Debug\net9.0\LAB6.pdb
+C:\Users\w69958\RiderProjects\LAB6\LAB6\obj\Debug\net9.0\LAB6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w69958\RiderProjects\LAB6\LAB6\obj\Debug\net9.0\LAB6.AssemblyInfoInputs.cache
+C:\Users\w69958\RiderProjects\LAB6\LAB6\obj\Debug\net9.0\LAB6.AssemblyInfo.cs
+C:\Users\w69958\RiderProjects\LAB6\LAB6\obj\Debug\net9.0\LAB6.csproj.CoreCompileInputs.cache
+C:\Users\w69958\RiderProjects\LAB6\LAB6\obj\Debug\net9.0\LAB6.dll
+C:\Users\w69958\RiderProjects\LAB6\LAB6\obj\Debug\net9.0\refint\LAB6.dll
+C:\Users\w69958\RiderProjects\LAB6\LAB6\obj\Debug\net9.0\LAB6.pdb
+C:\Users\w69958\RiderProjects\LAB6\LAB6\obj\Debug\net9.0\LAB6.genruntimeconfig.cache
+C:\Users\w69958\RiderProjects\LAB6\LAB6\obj\Debug\net9.0\ref\LAB6.dll
