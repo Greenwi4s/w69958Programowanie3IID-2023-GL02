@@ -1,0 +1,29 @@
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\bin\Debug\net8.0\Lab5.exe
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\bin\Debug\net8.0\Lab5.deps.json
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\bin\Debug\net8.0\Lab5.runtimeconfig.json
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\bin\Debug\net8.0\Lab5.dll
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\bin\Debug\net8.0\Lab5.pdb
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\obj\Debug\net8.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfoInputs.cache
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfo.cs
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\obj\Debug\net8.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\obj\Debug\net8.0\Lab5.sourcelink.json
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\obj\Debug\net8.0\Lab5.dll
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\obj\Debug\net8.0\refint\Lab5.dll
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\obj\Debug\net8.0\Lab5.pdb
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\obj\Debug\net8.0\Lab5.genruntimeconfig.cache
+C:\Users\bezsh\Desktop\For_studying\Polską uniwersitecia\3 semester\Programowanie\w69930Programowanie3IID-2023-GL02\Lab5\obj\Debug\net8.0\ref\Lab5.dll
+C:\Users\xdd20\Desktop\Lab5\bin\Debug\net8.0\Lab5.exe
+C:\Users\xdd20\Desktop\Lab5\bin\Debug\net8.0\Lab5.deps.json
+C:\Users\xdd20\Desktop\Lab5\bin\Debug\net8.0\Lab5.runtimeconfig.json
+C:\Users\xdd20\Desktop\Lab5\bin\Debug\net8.0\Lab5.dll
+C:\Users\xdd20\Desktop\Lab5\bin\Debug\net8.0\Lab5.pdb
+C:\Users\xdd20\Desktop\Lab5\obj\Debug\net8.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xdd20\Desktop\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfoInputs.cache
+C:\Users\xdd20\Desktop\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfo.cs
+C:\Users\xdd20\Desktop\Lab5\obj\Debug\net8.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\xdd20\Desktop\Lab5\obj\Debug\net8.0\Lab5.dll
+C:\Users\xdd20\Desktop\Lab5\obj\Debug\net8.0\refint\Lab5.dll
+C:\Users\xdd20\Desktop\Lab5\obj\Debug\net8.0\Lab5.pdb
+C:\Users\xdd20\Desktop\Lab5\obj\Debug\net8.0\Lab5.genruntimeconfig.cache
+C:\Users\xdd20\Desktop\Lab5\obj\Debug\net8.0\ref\Lab5.dll
